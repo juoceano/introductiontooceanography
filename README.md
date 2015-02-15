@@ -64,14 +64,14 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
-| 01   |03 março|Apresentação da Disciplina            |Texto 1 |                      |
-| 02   |05 março|Prática: Fisiografia                  |Texto 2 |Reportagem            |
-| 03   |10 março|Formação/Estrutura da Terra           |Texto 3 |Redação               |
+| 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf) |                      |
+| 02   |05 março|Prática: Fisiografia                  |Texto 2 |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)            |
+| 03   |10 março|Formação/Estrutura da Terra           |Texto 3 |[Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)               |
 | 04   |12 março|Prática: Tectônica de Placas          |Texto 4 |                      |
 | 05   |17 março|Bacias oceânicas                      |Texto 5 |                      |
 | 06   |19 março|Prática: sedimentos marinhos          |Texto 6 |                      |
 | 07   |24 março|Sedimentos marinhos                   |Texto 7 |                      |
-| 08   |26 março|APRESENTACÃO PROJETO                  | -      |Projeto               |
+| 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto]()               |
 | 09   |31 março|Prática: propriedades da água do mar  |Texto 8 |                      |
 | 10   |02 abril|FERIADO                               | -      |                      |
 | 11   |07 abril|Propriedades da água do mar           |Texto 9 |                      |
