@@ -71,7 +71,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 05   |17 março|Bacias oceânicas                      |Texto 5 |                      |
 | 06   |19 março|Prática: sedimentos marinhos          |Texto 6 |                      |
 | 07   |24 março|Sedimentos marinhos                   |Texto 7 |                      |
-| 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto]()               |
+| 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)               |
 | 09   |31 março|Prática: propriedades da água do mar  |Texto 8 |                      |
 | 10   |02 abril|FERIADO                               | -      |                      |
 | 11   |07 abril|Propriedades da água do mar           |Texto 9 |                      |
@@ -100,7 +100,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 34   |25 junho|Discussão: Oceanografia               |Texto 27|                      |
 | 35   |30 junho|APRESENTAÇÂO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|APRESENTACÃO: SEMINÁRIOS              | -      |Relatório Final / Seminário      |
+| 37   |07 julho|APRESENTACÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / Seminário      |
 | 38   |09 julho|PROVA II                              | -      |Prova II              |
 
  
