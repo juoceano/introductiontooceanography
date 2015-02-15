@@ -1,0 +1,196 @@
+\RequirePackage{fix-cm}  % Fix Font shape `OT1/cmr/m/n' size substitution.
+%-----------------------------------------------------------------------------%
+%	Packages & Other Configurations
+%-----------------------------------------------------------------------------%
+\documentclass[a4paper,10pt]{article}
+\usepackage[top=0.5in, bottom=0.6in, left=1in, right=0.9in]{geometry}
+
+\usepackage[utf8]{inputenc} %add acents
+\usepackage{setspace} % command \doublespacing etc...
+\usepackage{lineno} % number lines
+\usepackage{epsf,epsfig} % includegraphics [pdf, png etc]
+\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft%
+\usepackage{textcomp} %símbolos de texto
+\usepackage{natbib} % bibtex - adicionar referencia
+% \usepackage{url} % for bibtex - configuracoes de urls
+\usepackage{tabularx} % for tables
+\usepackage[hidelinks]{hyperref}  % Add URL links.
+% \usepackage[bookmarks=false,colorlinks=true,urlcolor={green},linkcolor={green},pdfstartview={XYZ null null 1.22}]{hyperref} %all references
+
+
+%-----------------------------------------------------------------------------%
+%	Adicionar a Watermark
+%-----------------------------------------------------------------------------%
+\usepackage{draftwatermark}
+\SetWatermarkAngle{45}
+\SetWatermarkLightness{0.9}
+\SetWatermarkFontSize{5cm}
+\SetWatermarkScale{0.5}
+\SetWatermarkText{Relatório Final}
+
+
+
+%-----------------------------------------------------------------------------%
+%	Informações sobre o PDF
+%-----------------------------------------------------------------------------%
+
+\pdfinfo{%
+  /Title    (GEO232 - Relatório Final)
+  /Author   (Ju Leonel)
+  /Creator  (Ju Leonel)
+  /Producer (Ju Leonel)
+  /Subject  (Intro oceanografias)
+  /Keywords (Intro oceanografia, relatório final)}
+
+%-----------------------------------------------------------------------------%
+%	Documento
+%-----------------------------------------------------------------------------%
+\title{GEO232 - Introdução à Oceanografia - IGEO-UFBA}
+\author{\vspace{-10ex}}
+\date{\vspace{-10ex}}
+
+\begin{document}
+
+  \maketitle
+  %\doublespacing
+  \onehalfspace
+
+  \begin{tabular*} {0.9\textwidth}{@{\extracolsep{\fill} } l l}
+    \hline
+    Professora: Juliana Leonel & Atendimento: Sextas-feiras \\
+    E-mail: \href{mailto:jleonel@ufba.br}{jleonel@ufba.br} & Horário atendimento: 13:00-14:00 \\
+    Aulas: Terças e quintas-feiras & Local atendimento: IGEO - Sala 10 - 2\textsuperscript{o} andar\\
+    Horário- Aulas: 10:40 - 12:30 & Homepage: \url{http://juoceano.github.io/geochemistry}\\
+    \hline
+  \end{tabular*}
+
+  \vspace{3ex}
+
+  \centerline{ \textbf{Relatório Final}}
+
+
+  \section* {1. Formatação}
+    \noindent
+
+    a) Não há necessidade de capa (se houver capa, esta será contabilizada no limite de 5 páginas);
+
+    b) Espaçamento 1.5 ao longo do texto com exceção de onde é explicitamente estipulado diferente no modelo que se encontra no final do documento;
+
+    c) Fonte: Times New Romam
+
+    d) Demais formatações estão descritas no final do documento.
+
+
+  \section* {2. Conteúdo }
+    \noindent
+
+    a) Título do trabalho;
+
+    b) Identificação dos membros do grupo;
+
+    c) Resumo
+
+    d) Introdução;
+
+    e) Justificativa;
+
+    f) Objetivos;
+
+    g) Metodologia;
+
+    h) Resultados e discussão;
+
+    i) Conclusões;
+
+    j) Lista de referências bibliográficas usadas ao longo do texto.
+
+   \section* {3. Avaliação}
+   \noindent
+
+    Abaixo estão listados alguns dos critérios de avaliação do trabalho.
+
+    \textbf{1. Estrutura:} o trabalhho seguiu a formatação requisitada? Há lógica na apresentação e desenvolvimento das idéias?
+
+    \textbf{2. Clareza:} as sentenças são concisas? O vocabulário usado é preciso? O leitor lê o texto facilmente e entende as ideias apresentadas pelos autores sem esforço?
+
+    \textbf{3. Grafia:} há erros de gráfia, gramática ou pontuação?
+
+    \textbf{4. Referencias bibligráficas:} as referências bibliográficas são corretamente citadas ao longo do texto? Todas as referências citadas no texto estão presentes na lista de bibliografia?
+
+    \textbf{5. Relevância das informações:} todas as informações presentes tem relevância para o trabalho ou algumas (ou muitas) foram usadas apenas para aumentar o tamanho do texto?
+
+    \textbf{6. Entendimento sobre o assunto:} o texto mostra conhecimento profundo e robusto por partes dos autores sobre o assunto?
+
+    \textbf{7. Apresentação dos resultados:} Os dados são apresentados de forma clara? Os resultados são apresnetados de forma apropriada através do uso de tabelas e/ou gráficos?
+
+    \textbf{8. Discussão:} As hipotéses usadas para explicar os resultados são bem estruturadas e embasadas em outros estudos?
+
+\vspace{10ex}
+
+*************************************************************************************
+
+  {\centering
+  \textbf{TÍTULO DO TRABALHO: EM MAIÚSCULA - MÁXIMO DE TRÊS LINHAS. TIMES NEW ROMAN 13, NEGRITO E  CENTRALIZADO}
+
+  \textit{linha em branco}
+
+  \textbf{Autores (Times New Romam 10, negrito e centralizado. Separar os autores por ponto e vírgula - Ex: Maria, J. M.; João, J. B.)}
+
+  \textit{linha em branco}
+
+  \par
+  }
+
+  \noindent
+  \textbf{RESUMO} - Times New Romam 12, alinhado à , negrito e maiúsculo.
+
+  (Times 12 justificada, máximo de 200 palavras)
+
+  \vspace{1ex}
+  \noindent
+  \textbf{INTRODUÇÃO} - Times 12, alinhado à esquerda, negrito e maiúsculo.
+
+  (Times new Roman 12, justificada)
+
+  \vspace{1ex}
+  \noindent
+  \textbf{JUSTIFICATIVA} - Times 12, alinhado à esquerda, negrito e maiúsculo.
+
+  (Times new Roman 12, justificada)
+
+  \noindent
+  \textbf{OBJETIVOS} - Times 12, alinhado à esquerda, negrito e maiúsculo.
+
+  (Times new Roman 12, justificada)
+
+  \vspace{1ex}
+  \noindent
+  \textbf{METODOLOGIA} - Times 12, alinhado à esquerda, negrito e maiúsculo.
+
+  (Times new Roman 12, justificada)
+
+  \vspace{1ex}
+  \noindent
+  \textbf{RESULTADOS ESPERADOS} - Times 12, alinhado à esquerda, negrito e maiúsculo.
+
+  (Times new Roman 12, justificada)
+
+  \vspace{1ex}
+  \noindent
+  \textbf{REFERÊNCIAS BIBLIOGRÁFICAS} - Times 12, alinhado à , negrito e maiúsculo.
+
+  \vspace{1ex}
+  \noindent
+  Waine, B.; Kent, C. (1969). Why Batman and Superman can never go to the beach. Proceedings from
+
+  the Third International Conference of the Solitary Heroes Society, 5:304-309.
+
+  (Times 11, justificada, espaçamento simples entre linhas)
+
+
+%\clearpage %termina o texto e tudo que estiver flutuante se encaixa ali
+%\newpage % começa uma nova página
+%\bibliographystyle{chicago} % estilo que vai sair a bibliografia (posso usar outros)
+%\bibliography{references_ju} %entre chaves vai o nome do arquivo de referencias
+
+\end{document}
