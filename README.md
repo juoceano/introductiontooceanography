@@ -110,7 +110,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 34   |25 junho|Discussão: Oceanografia               |Texto 27|                      |
 | 35   |30 junho|APRESENTAÇÂO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|APRESENTACÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / Seminário      |
+| 37   |07 julho|APRESENTACÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)      |
 | 38   |09 julho|PROVA II                              | -      |Prova II              |
 
  
