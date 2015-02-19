@@ -21,15 +21,23 @@ Homepage: http://juoceano.github.io/introductiontooceanography
 Oceanografia: Definição e Conceitos. História da oceanografia e importância dos oceanos. Origem dos oceanos. Introdução à oceanografia geolófica. Introdução à oceanografia biológica. Introdução à oceanografia química. Introdução à oceanografia física. Processos oceânicos globais. Processos costeiros. Oceanografia como profissão. O mercado de trabalho para oceanógrafos.
 
 ## 2. Objetivos:
+
 No final dessa disciplina os alunos:
+
 a) terão desenvolvido um entendimento inicial de como os oceanos funcionam;
-b) saberão como usar o vocabulário apropriado para descrever e se referir a processos oceanongráficos;
+
+b) saberão como usar o vocabulário apropriado para descrever e se referir a processos oceanográficos;
+
 c) terão conhecimento científico e pensamento crítico para entender como as questões ligadas à oceanografia afetam o nosso dia-a-dia.
 
 ## 3. Metodologia das Aulas: 
+
 a) aulas expositvas; 
+
 b) discussões em sala de aula; 
+
 c) exercícios práticos; 
+
 d) soluções de problemas.
 
 Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
@@ -37,6 +45,7 @@ Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam
 Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
 ## 4. Avaliações
+
 a) exercícios (25%);
 
 b) seminário (10%);
@@ -54,7 +63,7 @@ b) breve apresentação (até 3 pontos - 1 por aluno): faça uma apresentação 
 ## 5. Conduta
 
 ### Assiduidade: 
-Será cobrada presença em sala de aula durante a aula prática atráves da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (Teórica, Prática) é 17.
+Será cobrada presença em sala de aula durante a aula prática através da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (Teórica, Prática) é 17.
 
 ### Atividades: 
 Cuidado com cópias (plágio)! Trabalhos que forem cópias (integral ou parcial) do trabalho de colegas ou de outras fontes sem referencia desta (livros, artigos, material da internet) serão desconsiderados na hora da correção recebendo nota zero.
@@ -108,9 +117,9 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 32   |18 junho|Malha Trófica e Transferência de Energia |Texto 25|                     |
 | 33   |23 junho|Habitats Costeiros                    |Texto 26|                      |
 | 34   |25 junho|Discussão: Oceanografia               |Texto 27|                      |
-| 35   |30 junho|APRESENTAÇÂO PROJETO(FINAL)           | -      |Apresentação/Discussão|
+| 35   |30 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|APRESENTACÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)      |
+| 37   |07 julho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)      |
 | 38   |09 julho|PROVA II                              | -      |Prova II              |
 
  
