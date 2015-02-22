@@ -84,35 +84,35 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
 | 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf) |                      |
-| 02   |05 março|Prática: Fisiografia                  |        | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)          |
+| 02   |05 março|Prática: Fisiografia                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)          |
 | 03   |10 março|Formação/Estrutura da Terra           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)                |
-| 04   |12 março|Prática: Tectônica de Placas          |Texto 4 |                      |
-| 05   |17 março|Bacias oceânicas                      |Texto 5 |                      |
-| 06   |19 março|Prática: sedimentos marinhos          |Texto 6 |Tema/Dupla Seminário  |
-| 07   |24 março|Sedimentos marinhos                   |Texto 7 |                      |
+| 04   |12 março|Prática: Tectônica de Placas          | -      |                      |
+| 05   |17 março|Bacias oceânicas                      |Texto 3 |                      |
+| 06   |19 março|Prática: sedimentos marinhos          | -      |Tema/Dupla Seminário  |
+| 07   |24 março|Sedimentos marinhos                   |Texto 4 |                      |
 | 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)               |
-| 09   |31 março|Prática: propriedades da água do mar  |Texto 8 |                      |
+| 09   |31 março|Propriedades da água do mar           |Texto 8 | Exercício 1 - Sedimentos |
 | 10   |02 abril|FERIADO                               | -      |                      |
-| 11   |07 abril|Propriedades da água do mar           |Texto 9 |                      |
-| 12   |09 abril|Prática: composição da água do mar    |Texto 10|                      |
-| 13   |14 abril|Composição da água do mar             |Texto 11|                      |
-| 14   |16 abril|Prática: temperatura e salinidade     |Texto 12|                      |
+| 11   |07 abril|Prática: composição da água do mar    |Texto 9 |                      |
+| 12   |09 abril|Composição da água do mar             |Texto 10|                      |
+| 13   |14 abril|Prática: temperatura e salinidade     |Texto 11|                      |
+| 14   |16 abril|Temperatura e salindiade              |Texto 12|                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
-| 16   |23 abril|Temperatura e salindiade              |Texto 13|                      |
-| 17   |28 abril|ANDAMENTO PROJETO                     | -      |                      |
-| 18   |30 abril|PROVA I                               | -      |                      |
-| 19   |05 maio |Prática: circulação superficial       |Texto 14|                      |
-| 20   |07 maio |Circulação superficial                |Texto 15|                      |
-| 21   |12 maio |Prática: circulação termoalina        |Texto 16|                      |
-| 22   |14 maio |Circulação termoalina                 |Texto 17|                      |
-| 23   |19 maio |Prática: ondas e marés                |Texto 18|                      |
-| 24   |21 maio |Ondas e marés                         |Texto 19|                      |
-| 25   |26 maio |ANDAMENTO PROJETO                     | -      |                      |
-| 26   |28 maio |Prática: vida no ambiente marinho     |Texto 20|                      |
-| 27   |02 junho|Vida no ambiente marinho              |Texto 21|                      |
+| 16   |23 abril|ANDAMENTO PROJETO                     |Texto 13|                      |
+| 17   |28 abril|PROVA I                               | -      |                      |
+| 18   |30 abril|Prática: circulação superficial       | -      |                      |
+| 19   |05 maio |Circulação superficial                |Texto 14|                      |
+| 20   |07 maio |Prática: circulação termoalina        |Texto 15|                      |
+| 21   |12 maio |Circulação termoalina                 |Texto 16|                      |
+| 22   |14 maio |Prática: ondas e marés                |Texto 17|                      |
+| 23   |19 maio |Ondas e marés                         |Texto 18|                      |
+| 24   |21 maio |ANDAMENTO PROJETO                     |Texto 19|                      |
+| 25   |26 maio |Prática: vida no ambiente marinho     | -      |                      |
+| 26   |28 maio |Vida no ambiente marinho              |Texto 20|                      |
+| 27   |02 junho|Prática: Produtividade primária       |Texto 21|                      |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Prática: Produtividade primária       |Texto 22|                      |
-| 30   |11 junho|Produtividade primária                |Texto 23|                      |
+| 29   |09 junho|Produtividade primária                |Texto 22|                      |
+| 30   |11 junho|ANDAMENTO PROJETO                     |Texto 23|                      |
 | 31   |16 junho|Prática: Malha Trófica e Transferência de Energia  |Texto 24|                      |
 | 32   |18 junho|Malha Trófica e Transferência de Energia |Texto 25|                     |
 | 33   |23 junho|Habitats Costeiros                    |Texto 26|                      |
