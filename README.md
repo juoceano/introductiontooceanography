@@ -116,11 +116,11 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 31   |16 junho|Prática: Malha Trófica e Transferência de Energia  |Texto 21|                      |
 | 32   |18 junho|Malha Trófica e Transferência de Energia |Texto 25|                     |
 | 33   |23 junho|Habitats Costeiros                    |Texto 21|                      |
-| 34   |25 junho|Discussão: Oceanografia               |Texto 23|                      |
-| 35   |30 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
+| 34   |25 junho|APRESENTAÇÃO PROJETO(FINAL)           |Texto 23|Apresentação/Discussão|
+| 35   |30 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
 | 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)      |
-| 38   |09 julho|PROVA II                              | -      |Prova II              |
+| 37   |07 julho|PROVA II                              | -      |  Prova II            |
+| 38   |09 julho|Encerramento da disciplina            | -      |                      |
 
  
 <!--Leitura 1= cronograma
