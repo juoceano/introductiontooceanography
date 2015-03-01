@@ -11,7 +11,7 @@ Professora: Juliana Leonel
 
 E-mail: jleonel@ufba.br
 
-Dia/Horário das aulas: Terças e Quintas-feiras 10:40-12:30 Sala XXX
+Dia/Horário das aulas: Terças e Quintas-feiras 10:40-12:30 Sala 103B
 
 Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 
@@ -26,13 +26,13 @@ No final dessa disciplina os alunos:
 
 a) terão desenvolvido um entendimento inicial de como os oceanos funcionam;
 
-b) saberão como usar o vocabulário apropriado para descrever e se referir a processos oceanográficos;
+b) saberão como usar o vocabulário apropriado para descrever e se referir aos processos oceanográficos;
 
 c) terão conhecimento científico e pensamento crítico para entender como as questões ligadas à oceanografia afetam o nosso dia-a-dia.
 
 ## 3. Metodologia das Aulas: 
 
-a) aulas expositvas; 
+a) aulas expositivas; 
 
 b) discussões em sala de aula; 
 
@@ -40,7 +40,7 @@ c) exercícios práticos;
 
 d) soluções de problemas.
 
-Eu encorajo vocês perguntarem durante as aulas, especialmente se não entederam o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
+Eu encorajo vocês perguntarem durante as aulas, especialmente se não antederem o assunto que está em discussão. Os principais tópicos serão apresentados/discutidas em sala de aula. As leituras requeridas ajudarão no entendimento das aulas além de trazerem informações e discussões complementares. Portanto, leia o material antes das aulas!!!
 
 Os slides de aulas estarão disponíveis na homepage da disciplina. Como eles são apenas um guia para as aulas eu recomendo que vocês também façam suas próprias anotações. 
 
@@ -56,9 +56,9 @@ d) projeto desenvolvido ao longo do semestre (25%);
 
 Pontos extras
 
-a) carta para um político local (até 3 pontos - 1 por aluno): escreva uma carta para um político local (prefeito, vereador, governador, etc) falando sobre como a sua gestão pode auxiliar com algum problema ligado a oceangrafia. Alguns exemplos: pesca, lixo nas praias, mudanças climáticas, preservação dos manguezais, impacto do turismo. Faça uma pesquisa para obter mais informações. A carta deve ter aproximadamente 1 página e deve ser entregue até uma semana antes da última prova e nelas devem constar o endereço de envio. Eu me encarregarei de enviar as melhores cartas. 
+a) carta para um político local (até 3 pontos - 1 por aluno): escreva uma carta para um político local (prefeito, vereador, governador, etc) falando sobre como a sua gestão pode auxiliar com algum problema ligado a oceanografia. Alguns exemplos: pesca, lixo nas praias, mudanças climáticas, preservação dos manguezais, impacto do turismo. Faça uma pesquisa para obter mais informações. A carta deve ter aproximadamente 1 página e deve ser entregue até uma semana antes da última prova e nelas devem constar o endereço de envio. Eu me encarregarei de enviar as melhores cartas. 
 
-b) breve apresentação (até 3 pontos - 1 por aluno): faça uma apresentação sobre informação oceanográfica não tradicional. Algumas ideias: a) um slideshow onde você descreve a oceanografia de um lugar que você morou ou visitou; b) um som (cantado ao vivo) com versos descrevendo um processo/ambiente/problema oceanográfico; c) uma maquete representando uma feição e/ou processo oceanográfico, etc. Use a criatividade! Eu devo aprovar as ideias antes delas serem executadas. As apresentações ocorreram no final das aulas e devem sempre ser agendadas com antecedencia de uma semana e só ocorreram uma apresentação por semana. 
+b) breve apresentação (até 3 pontos - 1 por aluno): faça uma apresentação sobre informação oceanográfica não tradicional. Algumas ideias: a) um slideshow onde você descreve a oceanografia de um lugar que você morou ou visitou; b) um som (cantado ao vivo) com versos descrevendo um processo/ambiente/problema oceanográfico; c) uma maquete representando uma feição e/ou processo oceanográfico, etc. Use a criatividade! Eu devo aprovar as ideias antes delas serem executadas. As apresentações ocorreram no final das aulas e devem sempre ser agendadas com antecedência de uma semana e só ocorreram uma apresentação por semana. 
 
 ## 5. Conduta
 
