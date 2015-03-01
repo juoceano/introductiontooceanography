@@ -91,32 +91,32 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 06   |19 março|Prática: sedimentos marinhos          | -      |Tema/Dupla Seminário  |
 | 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto4.pdf) |                      |
 | 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)               |
-| 09   |31 março|Propriedades da água do mar           |Texto 8 | Exercício 1 - Sedimentos |
+| 09   |31 março|Propriedades da água do mar           |Texto 5 | Exercício 1 - Sedimentos |
 | 10   |02 abril|FERIADO                               | -      |                      |
-| 11   |07 abril|Prática: composição da água do mar    |Texto 9 |                      |
-| 12   |09 abril|Composição da água do mar             |Texto 10|                      |
-| 13   |14 abril|Prática: temperatura e salinidade     |Texto 11|                      |
-| 14   |16 abril|Temperatura e salindiade              |Texto 12|                      |
+| 11   |07 abril|Prática: composição da água do mar    |Texto 6 |                      |
+| 12   |09 abril|Composição da água do mar             |Texto 7|                      |
+| 13   |14 abril|Prática: temperatura e salinidade     |Texto 8|                      |
+| 14   |16 abril|Temperatura e salindiade              |Texto 9|                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
-| 16   |23 abril|ANDAMENTO PROJETO                     |Texto 13|                      |
+| 16   |23 abril|ANDAMENTO PROJETO                     |Texto 10|                      |
 | 17   |28 abril|PROVA I                               | -      |                      |
 | 18   |30 abril|Prática: circulação superficial       | -      |                      |
-| 19   |05 maio |Circulação superficial                |Texto 14|                      |
-| 20   |07 maio |Prática: circulação termoalina        |Texto 15|                      |
-| 21   |12 maio |Circulação termoalina                 |Texto 16|                      |
-| 22   |14 maio |Prática: ondas e marés                |Texto 17|                      |
-| 23   |19 maio |Ondas e marés                         |Texto 18|                      |
-| 24   |21 maio |ANDAMENTO PROJETO                     |Texto 19|                      |
+| 19   |05 maio |Circulação superficial                |Texto 11|                      |
+| 20   |07 maio |Prática: circulação termoalina        |Texto 12|                      |
+| 21   |12 maio |Circulação termoalina                 |Texto 13|                      |
+| 22   |14 maio |Prática: ondas e marés                |Texto 14|                      |
+| 23   |19 maio |Ondas e marés                         |Texto 15|                      |
+| 24   |21 maio |ANDAMENTO PROJETO                     |Texto 16|                      |
 | 25   |26 maio |Prática: vida no ambiente marinho     | -      |                      |
-| 26   |28 maio |Vida no ambiente marinho              |Texto 20|                      |
-| 27   |02 junho|Prática: Produtividade primária       |Texto 21|                      |
+| 26   |28 maio |Vida no ambiente marinho              |Texto 17|                      |
+| 27   |02 junho|Prática: Produtividade primária       |Texto 18|                      |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Produtividade primária                |Texto 22|                      |
-| 30   |11 junho|ANDAMENTO PROJETO                     |Texto 23|                      |
-| 31   |16 junho|Prática: Malha Trófica e Transferência de Energia  |Texto 24|                      |
+| 29   |09 junho|Produtividade primária                |Texto 19|                      |
+| 30   |11 junho|ANDAMENTO PROJETO                     |Texto 20|                      |
+| 31   |16 junho|Prática: Malha Trófica e Transferência de Energia  |Texto 21|                      |
 | 32   |18 junho|Malha Trófica e Transferência de Energia |Texto 25|                     |
-| 33   |23 junho|Habitats Costeiros                    |Texto 26|                      |
-| 34   |25 junho|Discussão: Oceanografia               |Texto 27|                      |
+| 33   |23 junho|Habitats Costeiros                    |Texto 21|                      |
+| 34   |25 junho|Discussão: Oceanografia               |Texto 23|                      |
 | 35   |30 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 36   |02 julho|FERIADO                               | -      |                      |
 | 37   |07 julho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)      |
