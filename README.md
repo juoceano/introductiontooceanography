@@ -60,7 +60,7 @@ a) carta para um político local (até 3 pontos - 1 por aluno): escreva uma cart
 
 b) breve apresentação (até 3 pontos - 1 por aluno): faça uma apresentação sobre informação oceanográfica não tradicional. Algumas ideias: a) um slideshow onde você descreve a oceanografia de um lugar que você morou ou visitou; b) um som (cantado ao vivo) com versos descrevendo um processo/ambiente/problema oceanográfico; c) uma maquete representando uma feição e/ou processo oceanográfico, etc. Use a criatividade! Eu devo aprovar as ideias antes delas serem executadas. As apresentações ocorreram no final das aulas e devem sempre ser agendadas com antecedência de uma semana e só ocorreram uma apresentação por semana. 
 
-## 5. Conduta
+## 5. Conduta 
 
 ### Assiduidade: 
 Será cobrada presença em sala de aula durante a aula prática através da chamada ou assinatura de lista de presença. Alunos que estiverem ausentes não poderão entregar os relatórios e, se houver alguma atividade avaliada no dia, receberão zero na atividade. O limite de faltas em hora aula (Teórica, Prática) é 17.
@@ -83,20 +83,20 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
-| 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf) |                      |
-| 02   |05 março|Prática: Fisiografia                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)          |
-| 03   |10 março|Formação/Estrutura da Terra           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)                |
+| 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf)|        |
+| 02   |05 março|Prática: Fisiografia                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)|
+| 03   |10 março|Formação/Estrutura da Terra           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)|
 | 04   |12 março|Prática: Tectônica de Placas          | -      |                      |
-| 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto3.pdf) |                      |
+| 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto3.pdf) |       |
 | 06   |19 março|Prática: sedimentos marinhos          | -      |Tema/Dupla Seminário  |
-| 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto4.pdf) |                      |
-| 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)               |
-| 09   |31 março|Propriedades da água do mar           |Texto 5 | Exercício 1 - Sedimentos |
+| 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto4.pdf)|        |
+| 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
+| 09   |31 março|Propriedades da água do mar           |Texto 5 | Ex.Sedimentos|
 | 10   |02 abril|FERIADO                               | -      |                      |
 | 11   |07 abril|Prática: composição da água do mar    |Texto 6 |                      |
-| 12   |09 abril|Composição da água do mar             |Texto 7|                      |
-| 13   |14 abril|Prática: temperatura e salinidade     |Texto 8|                      |
-| 14   |16 abril|Temperatura e salindiade              |Texto 9|                      |
+| 12   |09 abril|Composição da água do mar             |Texto 7 |                      |
+| 13   |14 abril|Prática: temperatura e salinidade     |Texto 8 |                      |
+| 14   |16 abril|Temperatura e salinidade              |Texto 9 |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
 | 16   |23 abril|ANDAMENTO PROJETO                     |Texto 10|                      |
 | 17   |28 abril|PROVA I                               | -      |                      |
@@ -109,17 +109,17 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 24   |21 maio |ANDAMENTO PROJETO                     |Texto 16|                      |
 | 25   |26 maio |Prática: vida no ambiente marinho     | -      |                      |
 | 26   |28 maio |Vida no ambiente marinho              |Texto 17|                      |
-| 27   |02 junho|Prática: Produtividade primária       |Texto 18|                      |
+| 27   |02 junho|Produtividade primária                |Texto 18|Ex.Prod.primária      |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Produtividade primária                |Texto 19|                      |
+| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 19|Ex.Malha Trófica    |
 | 30   |11 junho|ANDAMENTO PROJETO                     |Texto 20|                      |
-| 31   |16 junho|Prática: Malha Trófica e Transferência de Energia  |Texto 21|                      |
-| 32   |18 junho|Malha Trófica e Transferência de Energia |Texto 25|                     |
-| 33   |23 junho|Habitats Costeiros                    |Texto 21|                      |
-| 34   |25 junho|APRESENTAÇÃO PROJETO(FINAL)           |Texto 23|Apresentação/Discussão|
-| 35   |30 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 31   |16 junho|Habitats Costeiros                    |Texto 21|                      |
+| 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           |Texto 25|Apresentação/Discussão|
+| 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              |Texto 21|[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |Texto 23||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 35   |30 junho|PROVA II                              | -      |Prova II              |
 | 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|PROVA II                              | -      |  Prova II            |
+| 37   |07 julho|Encerramento da disciplina            | -      |                      |
 | 38   |09 julho|Encerramento da disciplina            | -      |                      |
 
  
