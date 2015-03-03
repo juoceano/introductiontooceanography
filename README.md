@@ -18,7 +18,7 @@ Atendimento: Sextas-feiras 13:00 - 14:00 - IGEO, 2 andar, sala 10
 Homepage: http://juoceano.github.io/introductiontooceanography
 
 ## 1. Ementa:
-Oceanografia: Definição e Conceitos. História da oceanografia e importância dos oceanos. Origem dos oceanos. Introdução à oceanografia geolófica. Introdução à oceanografia biológica. Introdução à oceanografia química. Introdução à oceanografia física. Processos oceânicos globais. Processos costeiros. Oceanografia como profissão. O mercado de trabalho para oceanógrafos.
+Oceanografia: Definição e Conceitos. História da oceanografia e importância dos oceanos. Origem dos oceanos. Introdução à oceanografia geológica. Introdução à oceanografia biológica. Introdução à oceanografia química. Introdução à oceanografia física. Processos oceânicos globais. Processos costeiros. Oceanografia como profissão. O mercado de trabalho para oceanógrafos.
 
 ## 2. Objetivos:
 
@@ -83,65 +83,43 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
-| 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf)|        |
+| 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf)|  -     |
 | 02   |05 março|Prática: Fisiografia                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)|
 | 03   |10 março|Formação/Estrutura da Terra           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)|
-| 04   |12 março|Prática: Tectônica de Placas          | -      |                      |
-| 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto3.pdf) |       |
+| 04   |12 março|Prática: Tectônica de Placas          | -      | -                    |
+| 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto3.pdf) | -      |
 | 06   |19 março|Prática: sedimentos marinhos          | -      |Tema/Dupla Seminário  |
-| 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto4.pdf)|        |
+| 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Texto4.pdf)| -      |
 | 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
-| 09   |31 março|Propriedades da água do mar           |Texto 5 | Ex.Sedimentos|
+| 09   |31 março|Propriedades da água do mar           |Texto 5 | Ex.Sedimentos        |
 | 10   |02 abril|FERIADO                               | -      |                      |
-| 11   |07 abril|Prática: composição da água do mar    |Texto 6 |                      |
-| 12   |09 abril|Composição da água do mar             |Texto 7 |                      |
-| 13   |14 abril|Prática: temperatura e salinidade     |Texto 8 |                      |
-| 14   |16 abril|Temperatura e salinidade              |Texto 9 |                      |
+| 11   |07 abril|Prática: composição da água do mar    | -      |                      |
+| 12   |09 abril|Composição da água do mar             |Texto 6 |                      |
+| 13   |14 abril|Prática: temperatura e salinidade     | -      |                      |
+| 14   |16 abril|Temperatura e salinidade              |Texto 7 |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
-| 16   |23 abril|ANDAMENTO PROJETO                     |Texto 10|                      |
+| 16   |23 abril|ANDAMENTO PROJETO                     | -      |                      |
 | 17   |28 abril|PROVA I                               | -      |                      |
 | 18   |30 abril|Prática: circulação superficial       | -      |                      |
-| 19   |05 maio |Circulação superficial                |Texto 11|                      |
-| 20   |07 maio |Prática: circulação termoalina        |Texto 12|                      |
-| 21   |12 maio |Circulação termoalina                 |Texto 13|                      |
-| 22   |14 maio |Prática: ondas e marés                |Texto 14|                      |
-| 23   |19 maio |Ondas e marés                         |Texto 15|                      |
-| 24   |21 maio |ANDAMENTO PROJETO                     |Texto 16|                      |
+| 19   |05 maio |Circulação superficial                |Texto 8 |                      |
+| 20   |07 maio |Prática: circulação termoalina        |-        |                      |
+| 21   |12 maio |Circulação termoalina                 |Texto 9 |                      |
+| 22   |14 maio |Prática: ondas e marés                | -      |                      |
+| 23   |19 maio |Ondas e marés                         |Texto 10|                      |
+| 24   |21 maio |ANDAMENTO PROJETO                     | -      |                      |
 | 25   |26 maio |Prática: vida no ambiente marinho     | -      |                      |
-| 26   |28 maio |Vida no ambiente marinho              |Texto 17|                      |
-| 27   |02 junho|Produtividade primária                |Texto 18|Ex.Prod.primária      |
+| 26   |28 maio |Vida no ambiente marinho              |Texto 11|                      |
+| 27   |02 junho|Produtividade primária                |Texto 12|Ex.Prod.primária      |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 19|Ex.Malha Trófica    |
-| 30   |11 junho|ANDAMENTO PROJETO                     |Texto 20|                      |
-| 31   |16 junho|Habitats Costeiros                    |Texto 21|                      |
-| 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           |Texto 25|Apresentação/Discussão|
-| 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              |Texto 21|[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
-| 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |Texto 23||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 13|Ex.Malha Trófica    |
+| 30   |11 junho|ANDAMENTO PROJETO                     | -      |                      |
+| 31   |16 junho|Habitats Costeiros                    |Texto 14|                      |
+| 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
+| 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |-       ||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
 | 35   |30 junho|PROVA II                              | -      |Prova II              |
 | 36   |02 julho|FERIADO                               | -      |                      |
 | 37   |07 julho|Encerramento da disciplina            | -      |                      |
 | 38   |09 julho|Encerramento da disciplina            | -      |                      |
 
  
-<!--Leitura 1= cronograma
-Leitura 2= 
-Leitura 3= 
-Leitura 4=  
-Leitura 5= 
-Leitura 6= 
-Leitura 7= 
-Leitura 8= 
-Leitura 9= 
-Leitura 10= 
-Leitura 11=
-Leitura 12=
-Leitura 13=
-
-
-Reportagem =
-Redação =
-Projeto =
-Relatório final=
-Apresentação/Discussão=
-Seminário=
--->
