@@ -84,7 +84,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | Aula | Data   | Conteúdo                             |Leitura | Atividade Avaliada   |
 |:----:|:-------|:-------------------------------------|:-------|---------------------:|
 | 01   |03 março|Apresentação da Disciplina            |[Texto 1](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf)|  -     |
-| 02   |05 março|Prática: Fisiografia                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)|
+| 02   |05 março|[Prática: Fisiografia](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica1.pdf)                  | -      | [Redação](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Redacao.pdf)|
 | 03   |10 março|Formação/Estrutura da Terra           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)|
 | 04   |12 março|Prática: Tectônica de Placas          | -      | -                    |
 | 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto3.pdf) | -      |
