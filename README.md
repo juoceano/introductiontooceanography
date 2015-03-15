@@ -88,7 +88,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 03   |10 março|[Formação/Estrutura da Terra](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula03_20151(CC).pdf)           |[Texto 2](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto2.pdf)  |[Reportagem](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Reportagem.pdf)|
 | 04   |12 março|Prática: Tectônica de Placas          | -      | -                    |
 | 05   |17 março|Bacias oceânicas                      |[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto3.pdf) | -      |
-| 06   |19 março|Prática: sedimentos marinhos          | -      |[Tema/Dupla Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/README.pdf)  |
+| 06   |19 março|Prática: sedimentos marinhos          | -      |[Tema/Dupla Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/TemaDuplaSeminario.pdf)  |
 | 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf)| -      |
 | 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
 | 09   |31 março|Propriedades da água do mar           |Texto 5 | Ex.Sedimentos        |
