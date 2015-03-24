@@ -60,6 +60,8 @@ a) carta para um político local (até 3 pontos - 1 por aluno): escreva uma cart
 
 b) breve apresentação (até 3 pontos - 1 por aluno): faça uma apresentação sobre informação oceanográfica não tradicional. Algumas ideias: a) um slideshow onde você descreve a oceanografia de um lugar que você morou ou visitou; b) um som (cantado ao vivo) com versos descrevendo um processo/ambiente/problema oceanográfico; c) uma maquete representando uma feição e/ou processo oceanográfico, etc. Use a criatividade! Eu devo aprovar as ideias antes delas serem executadas. As apresentações ocorreram no final das aulas e devem sempre ser agendadas com antecedência de uma semana e só ocorreram uma apresentação por semana. 
 
+A nota máxima que o aluno poderá atingir no final do semestre é 100.
+
 ## 5. Conduta 
 
 ### Assiduidade: 
@@ -89,9 +91,9 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 04   |12 março|Prática: Tectônica de Placas          | -      | -                    |
 | 05   |17 março|[Bacias oceânicas](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula05_20151(CC).pdf)|[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto3.pdf) | -      |
 | 06   |19 março|[Prática: Sedimentos Marinhos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)          | -      |[Tema/Dupla Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/TemaDuplaSeminario.pdf)  |
-| 07   |24 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf)| -      |
+| 07   |24 março|Discussão Projeto                     | -      | -      |
 | 08   |26 março|APRESENTACÃO PROJETO                  | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
-| 09   |31 março|Propriedades da água do mar           |Texto 5 | Ex.Sedimentos        |
+| 09   |31 março|Sedimentos marinhos           |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf)| Ex.Sedimentos        |
 | 10   |02 abril|FERIADO                               | -      |                      |
 | 11   |07 abril|Prática: composição da água do mar    | -      |                      |
 | 12   |09 abril|Composição da água do mar             |Texto 6 |                      |
