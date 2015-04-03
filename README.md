@@ -74,7 +74,7 @@ Cuidado com cópias (plágio)! Trabalhos que forem cópias (integral ou parcial)
 
 Garrison, T. (2006). Esssentials of Oceanography. 5 edição. Canadá: Brooks/Cole, Cengage Learning, 429p.
 
-Pinet, P. R (2009). Invitation to Oceanography. 5 edição. EUA: Jones and Barlett Publishers, 626p.
+Rinet, P. R (2009). Invitation to Oceanography. 5 edição. EUA: Jones and Barlett Publishers, 626p.
 
 Teixeira, W.; Toledo, M.C.M.de; Fairchild, T. R.; Taioli, F. (2003). Decifrando a Terra. 1 edição. São Paulo: Oficina de Textos, 597p.
 
@@ -92,30 +92,30 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 05   |17 março|[Bacias oceânicas](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula05_20151(CC).pdf)|[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto3.pdf) | -      |
 | 06   |19 março|[Prática: Sedimentos Marinhos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)          | -      |[Tema/Dupla Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/TemaDuplaSeminario.pdf)  |
 | 07   |24 março|Discussão Projeto                     | -      | -      |
-| 08   |26 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf)      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
+| 08   |26 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf) -     |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
 | 09   |31 março|APRESENTACÃO PROJETO                  |        |         |
-| 10   |02 abril|FERIADO                               | -      |                      |
-| 11   |07 abril|Composição da água do mar    | -      |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf) - Reescrever as Questão do Exercício de Sedimentos                     |
-| 12   |09 abril|Prática: temperatura e salinidade     |Texto 6 |                      |
-| 13   |14 abril|Temperatura, salinidade e densidade   | -      |                      |
-| 14   |16 abril|Prática: circulação superficial       |Texto 7 |                      |
+| 10   |02 abril|FERIADO                               | -      |         |
+| 11   |07 abril|Composição da água do mar             |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf) - [Sedimentos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)|
+| 12   |09 abril|Prática: temperatura e salinidade     |-       |                      |
+| 13   |14 abril|Temperatura, salinidade e densidade   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf) |        |
+| 14   |16 abril|Prática: circulação superficial       |-       |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
 | 16   |23 abril|ANDAMENTO PROJETO                     | -      |                      |
 | 17   |28 abril|PROVA I                               | -      |                      |
-| 18   |30 abril|Circulação superficial                | -      |                      |
-| 19   |05 maio |Prática: circulação termoalina        |Texto 8 |                      |
-| 20   |07 maio |Circulação termoalina                 |-        |                      |
-| 21   |12 maio |Prática: ondas e marés                |Texto 9 |                      |
-| 22   |14 maio |Ondas e marés                         | -      |                      |
-| 23   |19 maio |Prática: vida no ambiente marinho     |Texto 10|                      |
-| 24   |21 maio |ANDAMENTO PROJETO                     | -      |                      |
-| 25   |26 maio |Vida no ambiente marinho              | -      |                      |
-| 26   |28 maio |Prática: Produtividade Marinha        |Texto 11|                      |
-| 27   |02 junho|Produtividade primária                |Texto 12|Ex.Prod.primária      |
+| 18   |30 abril|Circulação superficial                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf) |                      |
+| 19   |05 maio |Prática: circulação termoalina        |-       |                      |
+| 20   |07 maio |Circulação termoalina                 |-       |                      |
+| 21   |12 maio |Prática: ondas e marés                |-       |                      |
+| 22   |14 maio |Ondas e marés                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
+| 23   |19 maio |Prática: vida no ambiente marinho     |-       |                      |
+| 24   |21 maio |ANDAMENTO PROJETO                     |-       |                      |
+| 25   |26 maio |Vida no ambiente marinho              |Texto 8 |                      |
+| 26   |28 maio |Prática: Produtividade Marinha        |-       |                      |
+| 27   |02 junho|Produtividade primária                |Texto 9 |Ex.Prod.primária      |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 13|Ex.Malha Trófica    |
+| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 10|Ex.Malha Trófica    |
 | 30   |11 junho|ANDAMENTO PROJETO                     | -      |                      |
-| 31   |16 junho|Habitats Costeiros                    |Texto 14|                      |
+| 31   |16 junho|Habitats Costeiros                    |Texto 11|                      |
 | 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
 | 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |-       ||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
