@@ -92,7 +92,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 05   |17 março|[Bacias oceânicas](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula05_20151(CC).pdf)|[Texto 3](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto3.pdf) | -      |
 | 06   |19 março|[Prática: Sedimentos Marinhos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)          | -      |[Tema/Dupla Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/TemaDuplaSeminario.pdf)  |
 | 07   |24 março|Discussão Projeto                     | -      | -      |
-| 08   |26 março|Sedimentos marinhos                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf) -     |[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf)|
+| 08   |26 março|[Sedimentos marinhos](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula08_20151(CC).pdf)                   |[Texto 4](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto4.pdf)|  |
 | 09   |31 março|APRESENTACÃO PROJETO                  |        |         |
 | 10   |02 abril|FERIADO                               | -      |         |
 | 11   |07 abril|Composição da água do mar             |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf) - [Sedimentos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)|
