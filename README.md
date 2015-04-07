@@ -96,13 +96,13 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 09   |31 março|APRESENTACÃO PROJETO                  |        |         |
 | 10   |02 abril|FERIADO                               | -      |         |
 | 11   |07 abril|Composição da água do mar             |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf) - [Sedimentos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)|
-| 12   |09 abril|Prática: temperatura e salinidade     |-       |                      |
-| 13   |14 abril|Temperatura, salinidade e densidade   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf) |        |
+| 12   |09 abril|Prática: temperatura e salinidade     |-       |[Exercício Salinidade](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Salinidade.pdf) |
+| 13   |14 abril|Temperatura, salinidade e densidade   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|        |
 | 14   |16 abril|Prática: circulação superficial       |-       |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
 | 16   |23 abril|ANDAMENTO PROJETO                     | -      |                      |
 | 17   |28 abril|PROVA I                               | -      |                      |
-| 18   |30 abril|Circulação superficial                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf) |                      |
+| 18   |30 abril|Circulação superficial                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
 | 19   |05 maio |Prática: circulação termoalina        |-       |                      |
 | 20   |07 maio |Circulação termoalina                 |-       |                      |
 | 21   |12 maio |Prática: ondas e marés                |-       |                      |
