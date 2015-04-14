@@ -97,7 +97,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 10   |02 abril|FERIADO                               | -      |         |
 | 11   |07 abril|[Composição da água do mar](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula11_20151(CC).pdf)             |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|[Projeto](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Projeto.pdf) - [Sedimentos](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica2_Sedimentos.pdf)|
 | 12   |09 abril|[Prática: temperatura e salinidade](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica4_SalinityTemperature.pdf)     |-       |[Exercício Salinidade](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Salinidade.pdf) |
-| 13   |14 abril|Temperatura, salinidade e densidade   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|        |
+| 13   |14 abril|[Temperatura, salinidade e densidade](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula13_20151(CC).pdf)   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|        |
 | 14   |16 abril|Prática: circulação superficial       |-       |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
 | 16   |23 abril|ANDAMENTO PROJETO                     | -      |                      |
