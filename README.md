@@ -100,8 +100,8 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 13   |14 abril|[Temperatura, salinidade e densidade](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula13_20151(CC).pdf)   |[Texto 5](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto5.pdf)|        |
 | 14   |16 abril|Prática: circulação superficial       |-       |                      |
 | 15   |21 abril|FERIADO                               | -      |                      |
-| 16   |23 abril|ANDAMENTO PROJETO                     | -      |                      |
-| 17   |28 abril|PROVA I                               | -      |                      |
+| 16   |23 abril|ANDAMENTO PROJETO                     | -      |[Exercício T-S](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica5_MassasDAgua.pdf)                      |
+| 17   |28 abril|PROVA I                               | -      |[Revisão](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Revisao1.pdf)                      |
 | 18   |30 abril|Circulação superficial                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
 | 19   |05 maio |Prática: circulação termoalina        |-       |                      |
 | 20   |07 maio |Circulação termoalina                 |-       |                      |
