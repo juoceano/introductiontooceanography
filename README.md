@@ -102,14 +102,14 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 15   |21 abril|FERIADO                               | -      |                      |
 | 16   |23 abril|ANDAMENTO PROJETO                     | -      |[Exercício T-S](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica5_MassasDAgua.pdf)                      |
 | 17   |28 abril|PROVA I                               | -      |[Revisão](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Revisao1.pdf)                      |
-| 18   |30 abril|Circulação superficial                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
+| 18   |30 abril|[Circulação superficial](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula18_20151(CC).pdf)                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
 | 19   |05 maio |Prática: circulação termoalina        |-       |                      |
 | 20   |07 maio |Circulação termoalina                 |-       |                      |
 | 21   |12 maio |Prática: ondas e marés                |-       |                      |
 | 22   |14 maio |Ondas e marés                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
 | 23   |19 maio |Prática: vida no ambiente marinho     |-       |                      |
 | 24   |21 maio |ANDAMENTO PROJETO                     |-       |                      |
-| 25   |26 maio |Vida no ambiente marinho              |Texto 8 |                      |
+| 25   |26 maio |Vida no ambiente marinho              |[Texto 8](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto8.pdf) |                      |
 | 26   |28 maio |Prática: Produtividade Marinha        |-       |                      |
 | 27   |02 junho|Produtividade primária                |Texto 9 |Ex.Prod.primária      |
 | 28   |04 junho|FERIADO                               | -      |                      |
