@@ -104,7 +104,7 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 17   |28 abril|PROVA I                               | -      |[Revisão](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Revisao1.pdf)                      |
 | 18   |30 abril|[Circulação superficial](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula18_20151(CC).pdf)                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
 | 19   |05 maio |Prática: circulação termoalina        |-       |                      |
-| 20   |07 maio |Circulação termoalina                 |-       |                      |
+| 20   |07 maio |Circulação termoalina                 |-       |[Exercício](https://github.com/juoceano/introductiontooceanography/raw/master/practices/CirculacaoTermoalina.pdf)                      |
 | 21   |12 maio |Prática: ondas e marés                |-       |                      |
 | 22   |14 maio |Ondas e marés                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
 | 23   |19 maio |Prática: vida no ambiente marinho     |-       |                      |
