@@ -104,9 +104,9 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 17   |28 abril|PROVA I                               | -      |[Revisão](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Revisao1.pdf)                      |
 | 18   |30 abril|[Circulação superficial](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula18_20151(CC).pdf)                |[Texto 6](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto6.pdf)|                      |
 | 19   |05 maio |[Prática 6: circulação termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica6_CirculacaoTermoalina.pdf)        |-       |                      |
-| 20   |07 maio |Circulação termoalina                 |-       |[Ex 4 - Cir. Termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica6_CirculacaoTermoalina.pdf)                      |
+| 20   |07 maio |[Circulação termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/classes/IntroOceano_Aula20(CC).pdf)                 |-       |[Ex 4 - Cir. Termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica6_CirculacaoTermoalina.pdf)                      |
 | 21   |12 maio |[Prática 7: ondas e marés](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica7_OndasMares.pdf)                |-       |                      |
-| 22   |14 maio |[Ondas e marés]                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
+| 22   |14 maio |[Ondas e marés](https://github.com/juoceano/introductiontooceanography/raw/master/classes/IntroOceano_Aula22(CC).pdf)                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
 | 23   |19 maio |Prática 8: vida no ambiente marinho     |-       |                      |
 | 24   |21 maio |ANDAMENTO PROJETO                     |-       |                      |
 | 25   |26 maio |Vida no ambiente marinho              |[Texto 8](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto8.pdf) |                      |
