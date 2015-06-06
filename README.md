@@ -107,15 +107,15 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 20   |07 maio |[Circulação termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/classes/IntroOceano_Aula20(CC).pdf)                 |-       |[Ex 4 - Cir. Termoalina](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica6_CirculacaoTermoalina.pdf)                      |
 | 21   |12 maio |[Prática 7: ondas e marés](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica7_OndasMares.pdf)                |-       |                      |
 | 22   |14 maio |[Ondas e marés](https://github.com/juoceano/introductiontooceanography/raw/master/classes/IntroOceano_Aula22(CC).pdf)                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
-| 23   |19 maio |Prática 8: vida no ambiente marinho     |-       |                      |
+| 23   |19 maio |[Prática 8: vida no ambiente marinho](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica8_VidaAmbienteMarinho.pdf)     |-       |                      |
 | 24   |21 maio |ANDAMENTO PROJETO                     |-       |                      |
 | 25   |26 maio |Vida no ambiente marinho              |[Texto 8](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto8.pdf) |                      |
 | 26   |28 maio |Prática 9: Produtividade Marinha        |-       |                      |
-| 27   |02 junho|Produtividade primária                |Texto 9 |Ex.Prod.primária      |
+| 27   |02 junho|[Produtividade primária](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula25_20151(CC).pdf)                |[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf) |     |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Malha Trófica e Transferência de Energia|Texto 10|Ex.Malha Trófica    |
-| 30   |11 junho|ANDAMENTO PROJETO                     | -      |                      |
-| 31   |16 junho|Habitats Costeiros                    |Texto 11|                      |
+| 29   |09 junho|Malha Trófica e Transferência de Energia|[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf)|    |
+| 30   |11 junho|ANDAMENTO PROJETO                     | -      |Ex.Malha Trófica      |
+| 31   |16 junho|Habitats Costeiros                    |[Texto 10](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto10.pdf)|                      |
 | 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
 | 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
 | 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |-       ||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
