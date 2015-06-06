@@ -1,0 +1,80 @@
+%-----------------------------------------------------------------------------%
+%	Packages & Other Configurations
+%-----------------------------------------------------------------------------%
+\RequirePackage{fix-cm}  % Fix Font shape `OT1/cmr/m/n' size substitution.
+\documentclass[a4paper,10pt]{article}
+\usepackage[top=0.5in, bottom=0.6in, left=1in, right=0.9in]{geometry}
+\usepackage[utf8]{inputenc} %add acents
+\usepackage{setspace} % command \doublespacing etc...
+\usepackage{lineno} % number lines
+\usepackage{epsf,epsfig} % includegraphics [pdf, png etc]
+\usepackage{amsmath} %adicionei esse pacote pra vc poder usar o draft%
+\usepackage{textcomp} %símbolos de texto
+\usepackage{natbib} % bibtex - adicionar referencia
+% \usepackage{url} % for bibtex - configuracoes de urls
+\usepackage{tabularx} % for tables
+\usepackage[hidelinks]{hyperref}  % Add URL links.
+% \usepackage[bookmarks=false,colorlinks=true,urlcolor={green},linkcolor={green},pdfstartview={XYZ null null 1.22}]{hyperref} %all references
+
+%-----------------------------------------------------------------------------%
+%	Adicionar a Watermark
+%-----------------------------------------------------------------------------%
+\usepackage{draftwatermark}
+\SetWatermarkAngle{45}
+\SetWatermarkLightness{0.9}
+\SetWatermarkFontSize{5cm}
+\SetWatermarkScale{0.3}
+\SetWatermarkText{Prática 8 - Oceanografia}
+
+%-----------------------------------------------------------------------------%
+%	Informações sobre o PDF
+%-----------------------------------------------------------------------------%
+
+\pdfinfo{%
+  /Title    (GEO232 - Prática 8)
+  /Author   (Ju Leonel)
+  /Creator  (Ju Leonel)
+  /Producer (Ju Leonel)
+  /Subject  (Intro oceanografias)
+  /Keywords (Intro oceanografia, Prática: Vida no Ambiente Marinho)}
+
+%-----------------------------------------------------------------------------%
+%	Documento
+%-----------------------------------------------------------------------------%
+\title{GEO232 - Introdução à Oceanografia - IGEO-UFBA}
+\author{\vspace{-10ex}}
+\date{\vspace{-10ex}}
+
+\begin{document}
+
+  \maketitle
+  %\doublespacing
+  \onehalfspace
+
+  \begin{tabular*} {0.9\textwidth}{@{\extracolsep{\fill} } l l}
+    \hline
+    Professora: Juliana Leonel & Atendimento: Sextas-feiras \\
+    E-mail: \href{mailto:jleonel@ufba.br}{jleonel@ufba.br} & Horário atendimento: 13:00-14:00 \\
+    Aulas: Terças e Quintas-Feiras & Local atendimento: IGEO - Sala 10 - 2\textsuperscript{o} andar\\
+    Horário- Aulas: 10:40 - 12:30 & Homepage: \url{http://juoceano.github.io/introductiontooceanography}\\
+    \hline
+  \end{tabular*}
+
+  \vspace{3ex}
+
+    \section*{Prática 8: Vida no Meio Marinho}
+
+    \begin{itemize}
+      \item[1)] Faça um quadro comparativo entre a vida no ambiente terrestre, lacustre e marinho.
+      
+      \item[2)] A vida no ambiente marinho é mais difícil ou mais fácil que nos outros ambientes? Justifique.
+      
+      \item[3)] Quais as vantagens e desvantagens de se viver no ambiente marinho?
+      
+      \item[4)] Faça uma divisão do ambiente marinho em diferentes áreas levando em consideração suas características distintas. Em quais características você embasou a sua divisão? Quais os tipos de organismos vivem em cada uma de suas divisões? Justifique.
+      
+      \item[5)] Escolha cinco organismos marinhos distintos. Em que local vivem esses organismos? Quais as adaptações que cada um deles possui para sobreviver nesse habitat?
+           
+      
+    \end{itemize}
+\end{document}
