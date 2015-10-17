@@ -109,19 +109,19 @@ Trujillo, A.P. ; Thurman, H.V. (2005). Essential of Oceanography. 10 edição. E
 | 22   |14 maio |[Ondas e marés](https://github.com/juoceano/introductiontooceanography/raw/master/classes/IntroOceano_Aula22(CC).pdf)                         |[Texto 7](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto7.pdf) |                      |
 | 23   |19 maio |[Prática 8: vida no ambiente marinho](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Pratica8_VidaAmbienteMarinho.pdf)     |-       |                      |
 | 24   |21 maio |ANDAMENTO PROJETO                     |-       |                      |
-| 25   |26 maio |Vida no ambiente marinho              |[Texto 8](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto8.pdf) |                      |
+| 25   |26 maio |[Vida no ambiente marinho](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula25_20151(CC).pdf)              |[Texto 8](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto8.pdf) |                      |
 | 26   |28 maio |Prática 9: Produtividade Marinha        |-       |                      |
-| 27   |02 junho|[Produtividade primária](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula25_20151(CC).pdf)                |[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf) |     |
+| 27   |02 junho|[Produtividade primária](https://github.com/juoceano/introductiontooceanography/raw/master/classes/Aula27_20151(CC).pdf)                |[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf) |     |
 | 28   |04 junho|FERIADO                               | -      |                      |
-| 29   |09 junho|Malha Trófica e Transferência de Energia|[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf)|    |
-| 30   |11 junho|ANDAMENTO PROJETO                     | -      |Ex.Malha Trófica      |
-| 31   |16 junho|Habitats Costeiros                    |[Texto 10](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto10.pdf)|                      |
-| 32   |18 junho|APRESENTAÇÃO PROJETO(FINAL)           | -      |Apresentação/Discussão|
-| 33   |23 junho|APRESENTAÇÃO: SEMINÁRIOS              | -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / [Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
-| 34   |25 junho|APRESENTAÇÃO: SEMINÁRIOS (cont)       |-       ||[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
-| 35   |30 junho|PROVA II                              | -      |Prova II              |
-| 36   |02 julho|FERIADO                               | -      |                      |
-| 37   |07 julho|Encerramento da disciplina            | -      |                      |
-| 38   |09 julho|Encerramento da disciplina            | -      |                      |
+| 29   |20 outubro|Malha Trófica e Transferência de Energia|[Texto 9](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto9.pdf)|    |
+| 30   |22 outubro|Habitats Costeiros                     |[Texto 10]      |      |
+| 31   |27 outubro|Exercícios de Malha trófica            |[Texto 10](https://github.com/juoceano/introductiontooceanography/raw/master/chapters/Texto10.pdf)|[Exercício 4](https://github.com/juoceano/introductiontooceanography/raw/master/practices/Exercicios4_CadeiaTrofica.pdf)                      |
+| 32   |18 junho|Finalização Projeto| -      |Apresentação/Discussão|
+| 33   |03 junho|APRESENTAÇÃO PROJETO(FINAL)| -      |[Relatório Final](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/RelatorioFinal.pdf) / Ex.Malha Trófica|
+| 34   |05 novembro|APRESENTAÇÃO: SEMINÁRIOS       |-       |[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)|
+| 35   |10 novembro |APRESENTAÇÃO: SEMINÁRIOS (cont.)                              | -      |[Seminário](https://github.com/juoceano/introductiontooceanography/raw/master/evaluations/Seminarios.pdf)             |
+| 36   |17 novembro |PROVA II                               | -      |                      |Prova II
+| 37   |24 novembro|Encerramento da disciplina            | -      |                      |
+
 
  
